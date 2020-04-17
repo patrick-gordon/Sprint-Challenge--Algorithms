@@ -11,6 +11,13 @@ a)  a = 0
       a = a + n * n
 ```
 
+<!-- """
+def foo(n):
+  a = 0
+  while(a < n * n * n):
+    a = a + n * n
+  return a 
+""" -->
 
 ```
 b)  sum = 0
