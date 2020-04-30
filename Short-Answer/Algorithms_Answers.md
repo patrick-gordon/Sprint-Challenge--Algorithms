@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(c^n)
 
 
-b)
+b)O(n^c)
 
 
-c)
+c)O(1)
 
 ## Exercise II
 
